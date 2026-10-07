@@ -7,7 +7,7 @@ commons_io = "2.21.0"
 ant_junit = "1.10.15"
 mockito = "5.23.0"
 equals_verifier = "3.19.4"
-jspecify = "1.0.0"
+jspecify = "1.0.1"
 
 [libraries]
 junit4 = {group = "junit", name = "junit", version.ref = "junit"}
